@@ -1,23 +1,20 @@
-Welcome to Aiven Developer
+Welcome to Aiven Developer Portal
 ==========================
 
-In a nutshell:
 Aiven offers managed services for the best open source data technologies, on a cloud of your choice.
 
 Clouds
 ------
 
-Choose from AWS, GCP, Azure, Digital Ocean or UpCloud, and then pick the region where your service should be hosted.
+We offer multiple cloud options because we believe that everyone should have access to great data platforms to host their applications. Our customers tell us they love the multi-cloud approach because they know that they aren't locked in to one particular cloud platform for all their data needs.
 
-Why Multi-cloud?
-''''''''''''''''
+You can choose from AWS, GCP, Azure, Digital Ocean or UpCloud, and then pick the region where your service should be hosted.
 
-We offer multiple cloud options because we believe that everyone should have access to great data platforms wherever they host their applications. Our customers tell us they love it because they know that they aren't locked in to one particular cloud platform for all their data needs.
 
 Pricing
 -------
 
-Pricing is per month, you pay for the time that the service is running. **Data transfer costs are included**.
+You are billed on a monthly basis, and you only pay for the time that the service is running. **Data transfer costs are included**. You can check more on our _pricing page: https://aiven.io/pricing.
 
 Products
 --------
@@ -68,5 +65,3 @@ Aiven offers everything you'd expect but here are some highlights:
 * Read-only **replicas**. Whether that's for peace of mind, a reporting backend, or something else, you can spin up a read replica of your database on a different cloud.
 
 * Database **forking**. Create a fork of your database to test out migrations, upgrades, or anything else you'd like to try in a safe space before you go ahead.
-
-
