@@ -8,7 +8,7 @@ The site will be a place to hold all our developer-facing content.
 It is Python-based, with content in `ReStructuredText (rst) <https://docutils.sourceforge.io/rst.html>`_ and rendered by `Sphinx <https://www.sphinx-doc.org/en/master/>`_.
 
 Running locally
----------------
+-----------------
 
 Install the dependencies::
 
